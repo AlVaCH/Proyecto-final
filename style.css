@@ -67,6 +67,12 @@ body{
     color:chocolate;
 }
 
+.fondo_img{
+    position: absolute;
+    right: 20px;
+    bottom: 90px;
+    
+}
 
 .encriptador__recibidor__butom{
     padding: 10px 130px;
