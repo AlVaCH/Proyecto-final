@@ -20,7 +20,7 @@ body{
 .encriptador{
     display: flex;
     padding: 6% 0 20%;
-    gap: 50%;
+    gap: 15%;
     
     
 
@@ -29,11 +29,13 @@ body{
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    box-sizing: border-box
 
 }
 .encriptador__recibidor__textarea{
+    width: 80%;
     padding: 20px;
-    background-color: #FFFFE0;
+    background-color: white;
     color: #DAA520;
     font-size: 28px;
     font-weight: 400
